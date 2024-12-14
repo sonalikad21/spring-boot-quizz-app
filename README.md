@@ -1,6 +1,6 @@
 # Responsive Quiz App Using Spring Boot
 
-The "Spring Boot Quiz App" is a multiple-choice quiz application built using Spring Boot, Spring Data JPA, MySQL, Thymeleaf, and Bootstrap 5. It follows the MVC design pattern and is part of a tutorial series in Bangla. The app includes a start page, quiz page, result page, and a scoreboard for displaying quiz scores. It's designed to help users understand the integration of these technologies while building a responsive, functional quiz system.
+The "Spring Boot Quiz App" is a multiple-choice quiz application built using Spring Boot, Spring Data JPA, MySQL, Thymeleaf, and Bootstrap 5.  The app includes a start page, quiz page, result page, and a scoreboard for displaying quiz scores. It's designed to help users understand the integration of these technologies while building a responsive, functional quiz system.
 
 
 
